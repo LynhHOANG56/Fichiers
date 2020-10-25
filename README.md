@@ -1,6 +1,6 @@
 # L'indice FDep:
 
-Fichier : indice-de-defavorisation-sociale-fdep-par-iris.
+Fichier : indice-de-defavorisation-sociale-fdep-par-iris.csv
 
 Lien :  https://public.opendatasoft.com/explore/dataset/indice-de-defavorisation-sociale-fdep-par-iris/export/
 
