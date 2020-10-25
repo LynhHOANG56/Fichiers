@@ -1,4 +1,4 @@
-# Fichiers de données utilisés dans le projet IMPACT
+Fichiers de données utilisés dans le projet IMPACT
  
 
 # L'indice FDep:
