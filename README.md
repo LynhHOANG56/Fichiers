@@ -5,20 +5,20 @@ Fichier : indice-de-defavorisation-sociale-fdep-par-iris.csv
 Lien :  https://public.opendatasoft.com/explore/dataset/indice-de-defavorisation-sociale-fdep-par-iris/export/
 
 
-# Fichier du nombre des clubs sportifs:
+# Nombre des clubs sportifs:
 
 Fichier : club-data-2016.xlsx
 
 Lien :  https://www.data.gouv.fr/fr/datasets/donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports/
 
-# Fichier du statut des communes:
+# Statut des communes:
 
 Fichier : UU2010 au 01-01-2020.xlsx
 
 Lien : https://www.insee.fr/fr/information/2115018
 https://www.data.gouv.fr/fr/datasets/communes-urbaines-et-rurales-france-millesime/
 
-# Fichier du moyen de transport utilisé pour se rendre au travail:
+# Moyen de transport utilisé pour se rendre au travail:
 
 Fichier : moyen_de_transport.xlsx
 
